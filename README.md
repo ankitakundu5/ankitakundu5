@@ -23,6 +23,9 @@ I'm a  Computer Science student with a passionate learner from India.
 [Profile views](https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/ankitakundu5/profile-views)
 
 
+https://img.shields.io/badge/Profile%20Views--blue
+
+
 <!---
 ankitakundu5/ankitakundu5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
