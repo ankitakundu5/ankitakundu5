@@ -1,29 +1,30 @@
-  # Hi 👋, I'm ANKITA KUNDU
+<h1 align="center">Hi 👋, I'm ANKITA KUNDU</h1>
+<h3 align="center">I'm a Computer Science student and a passionate learner from India.</h3>
 
-Welcome to my GitHub profile! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitakundu5&label=Profile%20views&color=0e75b6&style=flat" alt="ankitakundu5" /> </p>
 
-I'm a  Computer Science student with a passionate learner from India. 
-
-
-  **Skills** 
-| **Programming Languages** | **Database** |
-|---------------------------|--------------|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="30" height="30"/> Python | <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="30" height="30"/> MySQL |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="30" height="30"/> C | |
-
-
-## 📫 How to Reach Me
-
-  **Contact**
+ <h3 align="left">📫 How to Reach Me:</h3>
 
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/> Gmail](mailto:ankitakundu5002@gmail.com) |
 | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/> LinkedIn](https://www.linkedin.com/in/ankitakundu-542172314) |
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30"/> WhatsApp](https://wa.me/9987518345) |
 
-[Profile views](https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/ankitakundu5/profile-views)
+<!---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ankitakundu-542172314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitakundu-542172314" height="30" width="40" /></a>
+</p>
+--->
 
 
-https://img.shields.io/badge/Profile%20Views--blue
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitakundu5&show_icons=true&locale=en&layout=compact" alt="ankitakundu5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitakundu5&show_icons=true&locale=en" alt="ankitakundu5" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitakundu5&" alt="ankitakundu5" /></p>
 
 
 <!---
